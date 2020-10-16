@@ -71,7 +71,7 @@ const qBank = [
   },
   {
     question:
-      "How many legs does a butterfly have?Which best selling toy of 1983 caused hysteria, resulting in riots breaking out in stores?",
+      "How many legs does a butterfly have?",
     answers: [
       "6",
       "0",
